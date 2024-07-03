@@ -3,3 +3,4 @@ hindi
 english
 tamil
 malayam
+urdu
